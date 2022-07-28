@@ -12,11 +12,17 @@ h1 {
 h2 {
   font-family: 'Montserrat', sans-serif;
   color: #32E0C4;
+  font-size: 2.5rem;
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #FEB139;
+}
+a{
+  color: #47B5FF;
+  font-family: 'Montserrat',cursive;
+  font-weight: 500
 }
 
 .top-container {
@@ -26,7 +32,12 @@ h3 {
 }
 
 .middle-container {
-background-color: white;
+background-color: #FCF8E8;
+border-style: solid;
+border-width: thin;
+border-top: none;
+border-bottom: none;
+border-color: #61481C;
 }
 
 .bottom-container {
@@ -36,6 +47,7 @@ border-color: black;
 border-style: solid;
 border-radius: 10px;
 padding: 7px;
+text-align: center;
 }
 .classy{
   font-family: 'Sacramento',cursive;
@@ -62,11 +74,14 @@ padding: 7px;
   top: 50px;
 }
 .Aniruddha{
-  font-size: 380%;
+  margin: 50px auto 0 auto;
+  font-size: 565%;
+  color: #6E85B7;
 }
 .programmer{
   font-family: monospace;
-  font-size: 200%;
+  font-size: 2.5rem;
+  color: #6E85B7;
 }
 .rock{
   height: 250px;
